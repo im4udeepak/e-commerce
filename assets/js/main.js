@@ -249,6 +249,7 @@
         arrows: false,
         fade: false,
         asNavFor: '.single-nav-thumb',
+        adaptiveHeight: true,
     });
 
     $('.single-nav-thumb').slick({
