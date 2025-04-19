@@ -2487,7 +2487,7 @@ ul#ProTab li.active a {
 .bb-pro-img .hover-img,
 .bb-pro-img .main-img {
   width: 100%;
-  aspect-ratio: 1/1;
+  aspect-ratio: 1/1.15;
 }
 .bb-shop-pro-inner.list-view-100 .bb-pro-img .main-img,
 .bb-shop-pro-inner.list-view-100 .bb-pro-img .hover-img {
