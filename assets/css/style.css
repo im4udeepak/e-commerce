@@ -245,6 +245,9 @@ body {
 }
 
 /* Loader */
+.bb-loader img{
+  max-width: 60px;
+}
 .bb-loader .loader:before {
   content: "";
   width: 100px;
